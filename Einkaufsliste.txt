@@ -2,3 +2,4 @@ Meine Einkaufsliste:
 
 - Tomaten
 - PastaFusilli
+- Fanta
