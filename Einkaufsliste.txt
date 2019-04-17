@@ -3,3 +3,5 @@ Meine Einkaufsliste:
 - Tomaten
 - PastaFusilli
 - SpriteFanta
+
+Ich schlage vor, dass David einkaufen geht.
